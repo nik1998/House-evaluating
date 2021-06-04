@@ -6,7 +6,6 @@ __pycache__/
 
 # C extensions
 *.so
-
 # Distribution / packaging
 .Python
 build/
@@ -33,7 +32,7 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
-
+*.h5
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -120,11 +119,13 @@ venv.bak/
 
 # mkdocs documentation
 /site
-
-# mypy
 .mypy_cache/
 .dmypy.json
 dmypy.json
 
 # Pyre type checker
 .pyre/
+/last_version/
+/neural-network-models/
+/socal_pics/
+/augmented_dataset/

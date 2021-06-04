@@ -1,0 +1,540 @@
+startseq  color and new window endseq
+startseq significant difference and new layout of house endseq
+startseq new window inserted and home paint white endseq
+startseq modern  glass window endseq
+startseq there is no significant  and fence destroyed endseq
+startseq light painting and new ceiling endseq
+tseq  sign painted dark and new  sign cladding endseq
+startseq painting white new roof endseq
+startseq light painting nice glass door endseq
+startseq building painted white plastic window endseq
+startseq good restoration and new floor appeared endseq
+startseq there is no significant difference and fence destroyed endseq
+startseq big window plastic house cladding endseq
+startseq small restoration there  no significant difference endseq
+startseq modern style and big porch endseq
+startseq light painting and small change endseq
+startseq excellent restoration and modern endseq
+startseq new porch created and white roof endseq
+startseq light color and new door endseq
+startseq new roof and house cladding endseq
+startseq big window and new house cladding material endseq
+startseq window appeared light painting endseq
+startseq porch reconstruct and light color endseq
+startseq small change and tree cut endseq
+startseq good restoration and plastic material endseq
+startseq new window inserted and home painted white endseq
+startseq light painting nice glass door endseq
+startseq modern style and window tuck endseq
+startseq  paint new window endseq
+startseq building painted white and modern porch endseq
+startseq big window and brown fence endseq
+startseq new color and wooden door endseq
+startseq plastic house facing and light painting endseq
+startseq modern technology and big glass window endseq
+startseq light painting and new roof endseq
+startseq dark painting new roof endseq
+startseq new wooden design endseq
+startseq modern style and plastic porch endseq
+startseq  restoration and new modern door endseq
+startseq house painted and tree cut endseq
+startseq the building  restored endseq
+startseq home painted dark modern style endseq
+startseq glass window and  cladding endseq
+startseq windowpane appeared light painting endseq
+startseq new roof and tree  endseq
+startseq light color  and new wdow endseq
+startseq new wooden design endseq
+startseq not change some window were  endseq
+startseq glass window modern  style endseq
+startseq house painted and tree cut endseq
+startseq new ceiling and house cladding endseq
+startseq small restoration there is no  difference endseq
+startseq significant difference and new layout of house endseq
+startseq the building perfectly repair endseq
+startseq new window inserted and excellent restoration endseq
+startseq plastic cladding and  change endseq
+startseq light color and new window endseq
+startseq good restoration and new floor appeared endseq
+startseq new wooden design endseq
+startseq building painted white and modern porch endseq
+startseq house painted dark modern style endseq
+startseq building painted white and modern porch endseq
+startseq small  endseq
+startseq new color and wooden threshold endseq
+startseq new roof and house cladding endseq
+startseq modern  style plastic material endseq
+startseq window appeared light painting endseq
+startseq nice design and plastic house cladding endseq
+startseq modern material light color endseq
+startseq building painted white plastic window endseq
+startseq building painted white and innovative porch endseq
+startseq good restoration new window endseq
+startseq new house cladding and floor endseq
+startseq there is no  difference and fence destroyed endseq
+startseq porch rebuild and light color endseq
+startseq good restoration and new floor appeared endseq
+startseq modernistic style and big porch endseq
+startseq house painted dark and new house facing endseq
+startseq plastic cladding and   change endseq
+startseq new roof and  planted endseq
+startseq building paint white plastic window endseq
+startseq owner made porch new plastic window endseq
+startseq light paint nice glass door endseq
+startseq nice design and plastic house cladding endseq
+startseq new glass window and house cladding endseq
+startseq new color and wooden door endseq
+startseq house painted dark and  house cladding endseq
+startseq new window and floor endseq
+startseq building restored and  endseq
+startseq house paint and tree cut endseq
+startseq modern style and electricity endseq
+startseq light painting and metal roof endseq
+startseq  painting and some small difference endseq
+startseq light painting and new roof endseq
+startseq new window and floor  make endseq
+startseq light color and new door endseq
+startseq new windowpane and wooden porch endseq
+startseq there is no difference but painting endseq
+startseq home paint white and new window inserted endseq
+startseq there is no difference but painting endseq
+startseq small  and tree cut endseq
+startseq light painting and metal cap endseq
+startseq modern doorway and light color endseq
+startseq new window and roof rebuild endseq
+startseq there are no departure but tree were cut endseq
+startseq big window plastic house cladding endseq
+startseq light color and new roof endseq
+startseq good porch modernistic style endseq
+startseq building paint white plastic window endseq
+startseq  painting and cutting tree endseq
+startseq big window and new house cladding material endseq
+startseq new roof and  cladding endseq
+startseq good porch new style endseq
+startseq good porch modern style endseq
+startseq nice roof new alloy door endseq
+startseq new door and window floor look endseq
+startseq excellent restoration and new modern door endseq
+startseq small change endseq
+startseq  design and plastic house cladding endseq
+startseq modern style and window inserted endseq
+startseq new porch created and white roof endseq
+startseq fence appeared there is no significant difference endseq
+startseq significant difference and new layout of  endseq
+startseq new roof and tree planted endseq
+startseq nice roof new metal door endseq
+startseq paint white new roof endseq
+startseq light painting modern window endseq
+startseq plastic material and big window endseq
+startseq tree cut and white color endseq
+startseq excellent restoration and modern endseq
+startseq modern style and window inserted endseq
+startseq dark painting and cutting tree endseq
+startseq big window and brown fence endseq
+startseq paint white new roof endseq
+startseq glass window modern  endseq
+startseq small change and tree cut endseq
+startseq nice roof new metal door endseq
+startseq there is no  but painting endseq
+startseq plastic material wooden doorway endseq
+startseq plastic house cladding and light painting endseq
+startseq porch removed and nice roof endseq
+startseq significant change new color endseq
+startseq light painting and small change endseq
+startseq home painted white and new window inserted endseq
+startseq modern plastic and metal construction endseq
+startseq modern plastic and metal construction endseq
+startseq home painted white and plastic material endseq
+startseq new window and floor were make endseq
+startseq light painting and cut tree endseq
+startseq glass threshold modern style endseq
+startseq excellent restoration and modern modern door endseq
+startseq  style and big porch endseq
+startseq big window and  house cladding material endseq
+startseq  painting and some small difference endseq
+startseq new window and wooden porch endseq
+startseq light painting and  change endseq
+startseq small change and modern style endseq
+startseq glass door modern  endseq
+startseq small change and modern style endseq
+startseq owner  porch new plastic window endseq
+startseq good porch modern style endseq
+startseq porch removed by owner it is new modern style endseq
+startseq excellent restoration and new modern threshold endseq
+startseq  painted white and plastic material endseq
+startseq new  floor appeared and modern style endseq
+startseq new roof and house cladding endseq
+startseq light paint and small change endseq
+startseq significant change new  endseq
+startseq modern style and electricity endseq
+startseq small change and modern  endseq
+startseq  painting and new roof endseq
+startseq dark painting and cutting tree endseq
+startseq  restored and painted endseq
+startseq new window tuck and excellent restoration endseq
+startseq porch removed and nice roof endseq
+startseq porch  and nice roof endseq
+startseq plastic material and big windowpane endseq
+startseq painting light and disregard tree endseq
+startseq sign painted and tree cut endseq
+startseq new glass window and house cladding endseq
+startseq home painted white and plastic material endseq
+startseq  window and roof rebuild endseq
+startseq good restoration and new floor appeared endseq
+startseq porch rebuild and light  endseq
+startseq new house cladding and floor endseq
+startseq house painted dark and new house facing endseq
+startseq light painting and  tree endseq
+startseq the building  restored endseq
+startseq small restoration there is no significant difference endseq
+startseq modern style plastic material endseq
+startseq new windowpane and wooden porch endseq
+startseq significant change new color endseq
+startseq modern technology and big glass windowpane endseq
+startseq modern material light  endseq
+startseq house paint dark modern style endseq
+startseq new wooden design endseq
+startseq new windowpane and floor endseq
+startseq new window tuck and home painted white endseq
+startseq home painted white and plastic fabric endseq
+startseq significant change new color endseq
+startseq excellent restoration and new modern door endseq
+startseq nice roof new alloy door endseq
+startseq plastic house cladding and light painting endseq
+startseq there are no difference but tree were   endseq
+startseq not change some windowpane were restored endseq
+startseq innovative style glass window endseq
+startseq modern style glass window endseq
+startseq building painted white plastic window endseq
+startseq porch removed by  it is new modern style endseq
+startseq light painting and alloy roof endseq
+startseq light painting and cut tree endseq
+startseq light painting and some small difference endseq
+startseq   restoration and modern endseq
+startseq fence appear there comprise no significant difference endseq
+startseq not  some window comprise restored endseq
+startseq big windowpane and new house cladding material endseq
+startseq new window and floor were make endseq
+startseq glass window and house cladding endseq
+startseq light painting and new roof endseq
+startseq modern door and light color endseq
+startseq light painting and metal roof endseq
+startseq modern style and   porch endseq
+startseq nice design and plastic house cladding endseq
+startseq modern material light color endseq
+startseq new floor built glass  cladding endseq
+startseq modern door and light color endseq
+startseq painting light and perfectly restored endseq
+startseq modern style  material endseq
+startseq  painting new window endseq
+startseq dark painting new ceiling endseq
+startseq modern style plastic material endseq
+startseq modern style and electricity endseq
+startseq the building perfectly restored endseq
+startseq new floor  glass house cladding endseq
+startseq the building perfectly restored endseq
+startseq owner made porch new plastic window endseq
+startseq there comprise no difference but painting endseq
+startseq  door and window floor appeared endseq
+startseq big window and  brown fence endseq
+startseq new porch make and white roof endseq
+startseq glass window and house cladding endseq
+startseq tree cut and white color endseq
+startseq newly window and wooden porch endseq
+startseq  painting and new roof endseq
+startseq painting light and cutting tree endseq
+startseq new floor appeared and  style endseq
+startseq glass door modern style endseq
+startseq light painting and new roof endseq
+startseq new color and wooden door endseq
+startseq there is no difference but house painting endseq
+startseq modern technology and big glass window endseq
+startseq glass window modern style endseq
+startseq good restoration and plastic material endseq
+startseq good restoration and plastic material endseq
+startseq new window and floor endseq
+startseq modern style and window inserted endseq
+startseq dark painting and disregard tree endseq
+startseq building  white and modern porch endseq
+startseq  painted white plastic window endseq
+startseq new window and wooden porch endseq
+startseq plastic material wooden door endseq
+startseq significant restoration and new window inserted endseq
+startseq new glass window and house cladding endseq
+startseq painting light and cutting tree endseq
+startseq modern and big glass windowpane endseq
+startseq good restoration new window endseq
+startseq light color and new door endseq
+startseq there is no  difference and fence destroyed endseq
+startseq good restoration and new floor appeared endseq
+startseq good restitution and plastic material endseq
+startseq big window plastic house cladding endseq
+startseq modern door and light color endseq
+startseq porch removed and  roof endseq
+startseq painting light and perfectly restored endseq
+startseq new window and roof rebuild endseq
+startseq house painted and  cut endseq
+startseq modern and big glass window endseq
+startseq modern style and electricity endseq
+startseq there are no difference but  were cut endseq
+startseq house painted dark and new house cladding endseq
+startseq  change and modern style endseq
+startseq light house painting and new roof endseq
+startseq fence look there is no significant difference endseq
+startseq light color and new door endseq
+startseq new door and window floor appeared endseq
+startseq significant restoration and new window  endseq
+startseq dark painting new roof endseq
+startseq owner made porch new plastic window endseq
+startseq small change endseq
+startseq new door and window floor appeared endseq
+startseq there is no difference but paint endseq
+startseq porch removed and  roof endseq
+startseq nice design and plastic house facing endseq
+startseq good restoration and plastic material endseq
+startseq tree  and white color endseq
+startseq  house cladding and floor endseq
+startseq new house cladding and floor endseq
+startseq plastic cladding and small change endseq
+startseq small change and modern font style endseq
+startseq new material and porch rebuild endseq
+startseq light house painting nice glass door endseq
+startseq new window and floor were built endseq
+startseq new roof and tree  endseq
+startseq modern technology and big  glass window endseq
+startseq  firm painted dark modern style endseq
+startseq glass window  style endseq
+startseq big window and new house facing material endseq
+startseq new floor appear and modern style endseq
+startseq glass window and house cladding endseq
+startseq  restoration new window endseq
+startseq excellent restoration and modern endseq
+startseq modern style glass window endseq
+startseq new window  and excellent restoration endseq
+startseq new window tuck and home paint white endseq
+startseq there is no significant difference and fence  endseq
+startseq  restoration and plastic material endseq
+startseq fence appeared there is no significant  endseq
+startseq light  and new window endseq
+startseq  window and wooden porch endseq
+startseq new material and porch rebuild endseq
+startseq modern style and big porch endseq
+startseq plastic house cladding and light painting endseq
+startseq plastic material wooden door endseq
+startseq newly wooden design endseq
+startseq modern and  glass window endseq
+startseq light painting plastic material endseq
+startseq   material and big window endseq
+startseq plastic house cladding and light painting endseq
+startseq window appeared light painting endseq
+startseq significant restoration and new window inserted endseq
+startseq porch removed and  roof endseq
+startseq new glass windowpane and house cladding endseq
+startseq owner made porch new plastic windowpane endseq
+startseq modern font style and electricity endseq
+startseq modern  and plastic porch endseq
+startseq window look light paint endseq
+startseq   painting and cut tree endseq
+startseq significant departure and new layout of house endseq
+startseq  color and new roof endseq
+startseq small  endseq
+startseq good restoration and new floor appeared endseq
+startseq glass window and house cladding endseq
+startseq small change and tree cut endseq
+startseq painting white new roof endseq
+startseq porch removed by owner it is new modern style endseq
+startseq porch removed by owner it is new modern style endseq
+startseq modern plastic and metal construction endseq
+startseq home paint white and new window tuck endseq
+startseq big window plastic house cladding endseq
+startseq light painting and metal roof endseq
+startseq new floor built glass house cladding endseq
+startseq good porch modern style endseq
+startseq modern material light color endseq
+startseq light painting new window endseq
+startseq modern  glass window endseq
+startseq glass   modern style endseq
+startseq light painting and cut  endseq
+startseq there follow no significant difference and fence destroyed endseq
+startseq painting light and perfectly repair endseq
+startseq light painting plastic fabric endseq
+startseq new porch created and white cap endseq
+startseq light painting and some small  endseq
+startseq  restoration there is no significant difference endseq
+startseq modern style and  porch endseq
+startseq good porch modern style endseq
+startseq painting light and  tree endseq
+startseq  change and tree cut endseq
+startseq porch  by owner it is new modern style endseq
+startseq light painting and small change endseq
+startseq modern and big glass window endseq
+startseq building painted white and modern porch endseq
+startseq modern material light color endseq
+startseq  painted white and new window inserted endseq
+startseq small restoration there comprise no significant difference endseq
+startseq not  some window were restored endseq
+startseq modern  plastic material endseq
+startseq plastic material wooden door endseq
+startseq there follow no difference but tree   endseq
+startseq light  material and new door endseq
+startseq light painting and metal cap endseq
+startseq new window and floor endseq
+startseq  painting new window endseq
+startseq significant restoration and  window inserted endseq
+startseq tree cut and white color endseq
+startseq glass door modern style endseq
+startseq   cladding and small change endseq
+startseq new material and porch rebuild endseq
+startseq light color and new door endseq
+startseq home painted white and new window inserted endseq
+startseq new roof and tree  endseq
+startseq home paint white and plastic material endseq
+startseq house painted dark and new house cladding endseq
+startseq  roof new metal door endseq
+startseq small  there is no significant difference endseq
+startseq house painted dark modern style endseq
+startseq glass windowpane modern style endseq
+startseq  glass door modern style endseq
+startseq porch rebuild and light color endseq
+startseq new material and porch rebuild endseq
+startseq new floor appeared and modern style endseq
+startseq new window and roof rebuild endseq
+startseq modern style and big porch endseq
+startseq new door and window floor appeared endseq
+startseq light paint nice glass door endseq
+startseq not change some window were restored endseq
+startseq new roof and tree planted endseq
+startseq new floor built glass house cladding endseq
+startseq dark painting  roof endseq
+startseq new window inserted and excellent restoration endseq
+startseq plastic material wooden door endseq
+startseq new glass windowpane and house cladding endseq
+startseq home painted white and plastic material endseq
+startseq   style glass window endseq
+startseq light paint plastic material endseq
+startseq paint white new roof endseq
+startseq tree cut and  white color endseq
+startseq painting light and perfectly repair endseq
+startseq modern style and  porch endseq
+startseq new roof and house facing endseq
+startseq new floor built glass house facing endseq
+startseq big window and new house cladding material endseq
+startseq new window inserted and excellent restoration endseq
+startseq light painting and new roof endseq
+startseq light painting  material endseq
+startseq the building  restored endseq
+startseq dark painting new roof endseq
+startseq modern style and plastic porch endseq
+startseq light paint new window endseq
+startseq plastic material and big window endseq
+startseq new window and   endseq
+startseq new floor built glass house cladding endseq
+startseq light paint and cut tree endseq
+startseq light painting and some small difference endseq
+startseq   style plastic material endseq
+startseq plastic cladding and small  endseq
+startseq modern door and light color endseq
+startseq light color and new roof endseq
+startseq  roof new metal door endseq
+startseq new floor appeared and modern style endseq
+startseq significant  and new layout of house endseq
+startseq painting light and disregard tree endseq
+startseq new door and window  appeared endseq
+startseq new window and roof reconstruct endseq
+startseq paint light and perfectly restored endseq
+startseq big window plastic  cladding endseq
+startseq big window and brown fence endseq
+startseq  font style and window inserted endseq
+startseq light painting nice glass doorway endseq
+startseq there comprise no difference but tree comprise disregard endseq
+startseq excellent restoration and modern endseq
+startseq plastic cladding and small change endseq
+startseq good restitution new window endseq
+startseq porch rebuild and light color endseq
+startseq small change and tree cut endseq
+startseq building restored and  endseq
+startseq small change and modernistic style endseq
+startseq house paint dark modern style endseq
+startseq modern and big glass window endseq
+startseq painting light and  tree endseq
+startseq new floor appeared and new style endseq
+startseq new window inserted and home painted white endseq
+startseq significant difference and new layout of house endseq
+startseq tree cut and white color endseq
+startseq big window and brown fence endseq
+startseq window appear light painting endseq
+startseq modern shaping and metal construction endseq
+startseq nice design and plastic house facing endseq
+startseq modern plastic and metal construction endseq
+startseq light painting and some small difference endseq
+startseq modern technology and big glass window endseq
+startseq modern door and light color endseq
+startseq light  and new window endseq
+startseq shaping material wooden door endseq
+startseq new color and wooden door endseq
+startseq modern style and plastic porch endseq
+startseq big window and brown fence endseq
+startseq glass window modern style endseq
+startseq glass window and firm cladding endseq
+startseq  color and new window endseq
+startseq light color and newly roof endseq
+startseq modern style and electricity endseq
+startseq home painted white and new window inserted endseq
+startseq building restored and painted endseq
+startseq innovative material light color endseq
+startseq porch rebuild and light color endseq
+startseq significant change new color endseq
+startseq new porch  and white roof endseq
+startseq light color and new roof endseq
+startseq dark painting and cutting tree  endseq
+startseq modern and big glass window endseq
+startseq modern technology and big glass window endseq
+startseq house painted and tree   endseq
+startseq porch removed by owner it is new modern  endseq
+startseq new house facing and floor endseq
+startseq light color and new roof endseq
+startseq significant change new color endseq
+startseq small change endseq
+startseq plastic fabric and big window endseq
+startseq modern plastic and metal construction endseq
+startseq light painting plastic material endseq
+startseq new window and ceiling rebuild endseq
+startseq big windowpane plastic house cladding endseq
+startseq dark paint and cutting tree endseq
+startseq new material and porch reconstruct endseq
+startseq light painting and new roof endseq
+startseq new porch  and white roof endseq
+startseq plastic  firm cladding and light painting endseq
+startseq new window and floor endseq
+startseq newly window and floor were built endseq
+startseq new window tuck and home painted white endseq
+startseq modern style and window tuck endseq
+startseq light  and new roof endseq
+startseq new window  and excellent restoration endseq
+startseq painting white new roof endseq
+startseq significant restoration and new wdow   endseq
+startseq new window and floor follow built endseq
+startseq dark  new roof endseq
+startseq painting light and perfectly  endseq
+startseq light painting and new roof endseq
+startseq newly house cladding and floor endseq
+startseq good restoration new window endseq
+startseq new glass window and house cladding endseq
+startseq not  some window were restored endseq
+startseq excellent restitution and modern endseq
+startseq  wooden design endseq
+startseq there are no difference but tree were cut endseq
+startseq fence appeared there is no significant difference endseq
+startseq  restoration and new modern door endseq
+startseq new color and wooden door endseq
+startseq  painting and small change endseq
+startseq building restored and paint endseq
+startseq fence appeared there is no significant departure endseq
+startseq significant restoration and new window inserted endseq
+startseq building  and paint endseq
+startseq light paint plastic material endseq
+startseq shaping material and big window endseq
+startseq good restoration new windowpane endseq
+startseq new  and porch rebuild endseq
+startseq small change endseq
+startseq owner  porch new plastic window endseq

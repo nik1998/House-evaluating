@@ -129,3 +129,6 @@ dmypy.json
 /neural-network-models/
 /socal_pics/
 /augmented_dataset/
+/*.h5
+*.hdf5
+/socal2.csv
